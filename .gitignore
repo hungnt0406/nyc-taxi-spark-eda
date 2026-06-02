@@ -1,0 +1,22 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment files
+.env
+.env.*
+
+# Generated data and Spark outputs
+data/
+_SUCCESS
+
+# Local tool caches
+.codegraph/
+.ipynb_checkpoints/
+
+# Logs
+*.log

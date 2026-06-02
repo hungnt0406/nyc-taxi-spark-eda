@@ -1,0 +1,2 @@
+total_amount_p25,total_amount_p50,total_amount_p75,total_amount_p95,total_amount_p99,trip_distance_p25,trip_distance_p50,trip_distance_p75,trip_distance_p95,trip_distance_p99,fare_amount_p25,fare_amount_p50,fare_amount_p75,fare_amount_p95,fare_amount_p99
+15.4,20.16,28.7,80.25,101.94,1.06,1.8,3.33,14.33,20.06,8.6,12.8,20.5,65.3,73.0

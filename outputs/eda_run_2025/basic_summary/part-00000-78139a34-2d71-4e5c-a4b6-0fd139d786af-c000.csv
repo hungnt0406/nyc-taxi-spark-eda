@@ -1,0 +1,2 @@
+total_rows,min_pickup_datetime,max_pickup_datetime,avg_trip_distance,std_trip_distance,min_trip_distance,max_trip_distance,avg_fare_amount,std_fare_amount,min_fare_amount,max_fare_amount,avg_total_amount,std_total_amount,min_total_amount,max_total_amount
+48722602,2007-12-05T18:45:00.000,2025-12-31T23:59:59.000,6.84289201652514,649.3613312608311,0.0,397994.37,18.419375616472866,142.84606775530017,-1807.6,863372.12,26.908800326598794,143.4822614556874,-1832.85,863380.37
