@@ -20,3 +20,6 @@ _SUCCESS
 
 # Logs
 *.log
+
+# Local tutorial notes
+gcp_dataproc_spark_eda_tutorial.md
